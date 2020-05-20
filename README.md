@@ -45,7 +45,7 @@
 
 
 
-Collected by students in the course **Computer-Aided Design of Digital Circuits and Systems** of Tsinghua University (alphabetically ordered): Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Chaoyang Shen, Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai Zhong
+Collected by students in the course **Computer-Aided Design of Digital Circuits and Systems** of Tsinghua University (alphabetically ordered): **Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Chaoyang Shen, Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai Zhong**
 
-Instructor: [Prof. Yu Wang](http://nicsefc.ee.tsinghua.edu.cn/people/yu-wang/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Teaching Assistant: Xuefei Ning
+Instructor: [**Prof. Yu Wang**](http://nicsefc.ee.tsinghua.edu.cn/people/yu-wang/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Teaching Assistant: **Xuefei Ning**
 
