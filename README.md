@@ -1,5 +1,9 @@
 # Awesome AI for EDA
 
+## Table of Contents
+
+## Survey
+
 ## Papers
 ### High Level Synthesis
 
@@ -7,16 +11,13 @@
 
 ### FloorPlanning & Placement
 
-#### routing congestion
+#### prediction + search
+* Chip Placement with Deep Reinforcement Learning [[pdf]](https://arxiv.org/abs/2004.10746)
+  * *Azalia Mirhoseini, Anna Goldie, et. al., ISPD2020*
 
-#### lithography hotspot
-
-#### timing
-
-#### wirelength
+#### prediction
 
 #### MISC
-
 
 ### Routing
 
@@ -26,4 +27,4 @@
 
 ### Acceleration with Deep Learning Engine
 
-## Tools
+## Other resources
