@@ -42,3 +42,7 @@
 ### Acceleration with Deep Learning Engine
 
 ## Other resources
+
+
+
+Authored by (alphabetically ordered): Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Chaoyang Shen, Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai Zhong, Xuefei Ning, Yu Wang
