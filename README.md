@@ -23,8 +23,8 @@
 * On learning-based methods for design-space exploration with high-level synthesis [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2463209.2488795)
   * *Hung-Yi Liu and Luca P. Carloni. DAC 2013*
 * Active learning for multi-objective optimization [[pdf]]
-()
- * **
+(http://proceedings.mlr.press/v28/zuluaga13.pdf)
+ * *Marcela Zuluaga, Andreas Krause, Guillaume Sergent and Markus P¨uschel. ICML 2013*
 * Machine-learning based simulated annealer method for high level synthesis design space exploration [[pdf]](https://ieeexplore.ieee.org/iel7/6842515/6850372/06850383.pdf)
   * *Anushree Mahapatra and Benjamin Carrion Schafer. ESLsyn 2014*
 * Efficient and reliable high-level synthesis design space explorer for fpgas [[pdf]](https://ieeexplore.ieee.org/iel7/7573873/7577295/07577370.pdf)
