@@ -136,19 +136,17 @@ Testing and verification is one of the most important process in chip design. Ho
   * *Yibo Lin, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany, David Z. Pan. DAC 2019*
 
 ### Analog
+In the analog design flow, the topology of circuit is firstly determined for certain applications. Then the size of devices in selected topolgy are optimized to meet the exact specifications like DC gain or GBW. Recently, machine learning techniques are introduced to solve the device sizing  and topology selection problems automatically.
 
+#### Circuit Design
 * Circuit-GNN: Graph Neural Networks for Distributed Circuit Design [[pdf]](https://proceedings.mlr.press/v97/zhang19e/zhang19e.pdf)
   * *Guo Zhang, Hao He, DinaKatabi. ICML 2019*
 * Learning to Design Circuits  [[pdf]](https://arxiv.org/abs/1812.02734)
   * *Hanrui Wang, Jiacheng Yang, Hae-Seung Lee, Song Han. NIPS 2018*
 * AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs [[pdf]](https://arxiv.org/abs/2001.01808)
   * *Keertana Settaluri, Ameer Haj-Ali, Qijing Huang, Kourosh Hakhamaneshi, Borivoje Nikolic. DATE 2020*
-* Electric analog circuit design with hypernetworks and a differential simulator [[pdf]](https://arxiv.org/abs/1911.03053)
-  * *Michael Rotman, Lior Wolf. ICASSP 2020*
 * BagNet:  Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural  Network [[pdf]](https://arxiv.org/abs/1907.10515)
   * *Kourosh Hakhamaneshi, Nick Werblun, Pieter Abbeel, Vladimir Stojanovic. ICCAD 2019*
-* Analog circuit topological feature extraction with unsupervised learning of new sub-structures [[pdf]](https://ieeexplore.ieee.org/document/7459552)
-  * *Hao Li, Fanshu Jia, Alex Doboli. DATE 2016*
 * Late Break Result: An Efficient Learning-based Approach for Performance Exploration on Analog and RF Circuit Synthesis [[pdf]](https://dl.acm.org/doi/10.1145/3316781.3322467)
   * *Hung-Ming Chen, Po-Cheng Pan, Chien-Chia Huang, Hung-Ming Chen. DAC 2019*
 * Application of Deep Learning  in Analog Circuit Sizing [[pdf]](https://dl.acm.org/doi/10.1145/3297156.3297160)
@@ -161,12 +159,19 @@ Testing and verification is one of the most important process in chip design. Ho
   * *Bowen Li, Paul D. Franzon. EPEPS 2016*
 * Machine Learning Applications  and Opportunities in IC Design Flow [[pdf]](https://ieeexplore.ieee.org/document/8742073)
   * *Laura Wang, Matt Luo. VLSI-DAT 2019*
+
+#### Topology Selection
+* Electric analog circuit design with hypernetworks and a differential simulator [[pdf]](https://arxiv.org/abs/1911.03053)
+  * *Michael Rotman, Lior Wolf. ICASSP 2020*
+* Analog circuit topological feature extraction with unsupervised learning of new sub-structures [[pdf]](https://ieeexplore.ieee.org/document/7459552)
+  * *Hao Li, Fanshu Jia, Alex Doboli. DATE 2016*
 * GA-SVM Optimization Kernel  applied to Analog IC Design Automation [[pdf]](https://ieeexplore.ieee.org/document/4263409)
   * *Manuel Barros, Jorge Guilherme, Nuno Horta. ICECS 2006*
 * Using Artificial Neural  Networks for Analog Integrated Circuit Design Automation [[pdf]](https://link.springer.com/book/10.1007/978-3-030-35743-6)
   * *N. Lourenço,  et. al. Springer*
 * Inference of Suitable for Required Specification Analog Circuit Topology using Deep Learning [[pdf]](https://ieeexplore.ieee.org/document/8923544)
   * *Teruki Matsuba, Nobukazu Takai, Masafumi Fukuda, Yusuke Kubo. ISPACS 2018*
+
 
 ## Other resources
 
