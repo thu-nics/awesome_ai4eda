@@ -101,6 +101,7 @@
   * *Abeer Al-Hyari, Ziad  Abuowaimer, Timothy Martin, Gary William Gréwal, Shawki Areibi, Anthony Vannelli. ACM Transactions on Reconfigurable Technology and Systems, August 2019* 
 
 ### Testing and Verification
+Testing and verification is one of the most important process in chip design. However, with the diversity of applications and the complexity of design, traditional formal/specification testing can no longer meet the demands of various industries. Recently, more and more ML algorithms are used in test and verification process. The papers in this section aim at applying machine learning methods to solve testing and verification problems, making fast analog/RF system testing,  building simplified estimation model, inferring and predicting the test results, optimizing sample strategies and even generating high quality test benches.
 * Error moderation in low-cost machine-learning-based analog/RF testing [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358314)
   * *Stratigopoulos, Haralampos-G., and Yiorgos Makris. IEEE TCAD of integrated CAS 2008*
 * HFMV: hybridizing formal methods and machine learning for verification of analog and mixed-signal circuits [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8465826)
