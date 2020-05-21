@@ -20,6 +20,7 @@
 
 ## Papers
 ### High Level Synthesis
+High-level synthesis (HLS) provides automatic conversion from C/C++/SystemC based specifications to hardware description languages (HDL). Particularly for HLS, ML has been adopted to produce fast and accurate result estimation, improve efficiency of Design Space Exploration (DSE) and assist DSE through an active-learning methodology.
 * On learning-based methods for design-space exploration with high-level synthesis [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2463209.2488795)
   * *Hung-Yi Liu and Luca P. Carloni. DAC 2013*
 * Active learning for multi-objective optimization [[pdf]](http://proceedings.mlr.press/v28/zuluaga13.pdf)
