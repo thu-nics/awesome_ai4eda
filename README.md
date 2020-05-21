@@ -32,6 +32,8 @@
   * *Pingfan Meng, Alric Althoff, Quentin Gautier, Ryan Kastner. DATE 2016*
 * Fast and Accurate Estimation of Quality of Results in High-Level Synthesis with Machine Learning [[pdf]](https://ieeexplore.ieee.org/iel7/8457441/8457615/08457644.pdf)
   * *Steve Dai, Yuan Zhou, Hang Zhang, Ecenur Ustun, Evangeline F.Y. Young, Zhiru Zhang. FCCM 2018*
+* Machine Learning for Design Space Exploration and Optimization of Manycore Systems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3240765.3243483)
+  * *Ryan Gary Kim, Janardhan Rao Doppa and Partha Pratim Pande. ICCAD'18*
 * HLSPredict: Cross Platform Performance Prediction for FPGA High-Level Synthesis [[pdf]](https://ieeexplore.ieee.org/iel7/8572681/8587609/08587690.pdf)
   * *Kenneth O’Neal, Mitch Liu, Hans Tang, Amin Kalantar, Kennen DeRenard, Philip Brisk. ICCAD 2018*
 * Pyramid: Machine Learning Framework to Estimate the Optimal Timing and Resource Usage of a High-Level Synthesis Design [[pdf]](https://ieeexplore.ieee.org/iel7/8890609/8891988/08892009.pdf)
