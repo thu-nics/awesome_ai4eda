@@ -44,17 +44,61 @@
   * *Hongzheng Chen and Minghua Shen. ICCAD 2019*
 ### Logic Synthesis
 
+* Accurate Wirelength Prediction for Placement-Aware Synthesis through Machine Learning [[pdf]](https://ieeexplore.ieee.org/abstract/document/8715016/)
+  * *Daijoon Hyun, Yuepeng Fan, Youngsoo Shin. DATE 2019*
+* Digital Compatible Synthesis, Placement and Implementation of Mixed-Signal Time-Domain Computing [[pdf]](https://ieeexplore.ieee.org/abstract/document/8806926)
+  * *Zhengyu Chen, Hai Zhou, Jie Gu. DAC 2019*
+* Template-based PDN Synthesis in Floorplan and Placement Using Classifier and CNN Techniques [[pdf]](https://ieeexplore.ieee.org/abstract/document/9045303)
+  * *Vidya A. Chhabria, Andrew B. Kahng, Minsoo Kim, Uday Mallappa, Sachin S. Sapatnekar, Bangqi Xu. ASPDAC 2020*
+* LSOracle: a Logic Synthesis Framework Driven by AI 
+  * *Walter Lau Neto, Max Austin, Scott Temple, Luca Amaru, Xifan Tang, Pierre-Emmanuel Gaillardon. ICCAD 2019*
+
 ### FloorPlanning & Placement
 
 #### prediction + search
 * Chip Placement with Deep Reinforcement Learning [[pdf]](https://arxiv.org/abs/2004.10746) [[blog]](https://ai.googleblog.com/2020/04/chip-design-with-deep-reinforcement.html)
   * *Azalia Mirhoseini, Anna Goldie, et. al. ISPD 2020*
+* PADE: A High-Performance Placer with Automatic Datapath Extraction and Evaluation through High-Dimensional Data Learning [[pdf]](https://ieeexplore.ieee.org/abstract/document/6241590)
+  * *Samuel Ward, Duo Ding, David Z. Pan. DAC 2012*
 
 #### prediction
 
+* Evaluation of routability-driven macro placement with machine-learning technique [[pdf]](https://ieeexplore.ieee.org/abstract/document/8394712)
+  * *Wei-Kai Cheng, Yu-Yin Guo, Chih-Shuan Wu. 2018 7th International Symposium on Next Generation Electronics (ISNE)*
+* Accurate Wirelength Prediction for Placement-Aware Synthesis through Machine Learning [[pdf]](https://ieeexplore.ieee.org/abstract/document/8715016/)
+  * *Daijoon Hyun, Yuepeng Fan, Youngsoo Shin. DATE 2019*
+* Template-based PDN Synthesis in Floorplan and Placement Using Classifier and CNN Techniques [[pdf]](https://ieeexplore.ieee.org/abstract/document/9045303)
+  * *Vidya A. Chhabria, Andrew B. Kahng, Minsoo Kim, Uday Mallappa, Sachin S. Sapatnekar, Bangqi Xu. ASPDAC 2020*
+* Learning-Based Prediction of Embedded Memory Timing Failures During Initial Floorplan Design [[pdf]](https://ieeexplore.ieee.org/abstract/document/7428008)
+  * *Wei-Ting J. Chan, Kun Young Chung, Andrew B. Kahng, Nancy D. MacDonald, Siddhartha Nath. ASPDAC 2016*
+* Device Placement Optimization with Reinforcement Learning [[pdf]](https://dl.acm.org/doi/10.5555/3305890.3305932)
+  * *Azalia Mirhoseini, Hieu Pham, Quoc V. Le et al. ICML 2017*
+
 #### MISC
 
+* Placement and routing for 3D-FPGAs using reinforcement learning and support vector machines [[pdf]](https://ieeexplore.ieee.org/abstract/document/1383317)
+  * *R. Manimegalai, E. Siva Soumya, V. Muralidharan, B. Ravindran, V. Kamakoti, D. Bhatia. VLSID 2005*
+
 ### Routing
+
+* Routability Optimization for Industrial Designs at Sub-14nm Process Nodes Using Machine Learning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3036669.3036681)
+  * *Wei-Ting J. Chan, Pei-Hsin Ho, Andrew B. Kahng and Prashant Saxena3. ISPD 2017*
+* Accurate Machine-Learning-Based On-Chip Router Modeling [[pdf]](https://ieeexplore.ieee.org/abstract/document/5473105/)
+  * *Kwangok Jeong, Andrew B. Kahng, Bill Lin, Kambiz Samadi. IEEE Embedded Systems Letters (Volume: 2 , Issue: 3 , Sept. 2010)*
+* Placement and routing for 3D-FPGAs using reinforcement learning and support vector machines [[pdf]](https://ieeexplore.ieee.org/abstract/document/1383317)
+  * *R. Manimegalai, E. Siva Soumya, V. Muralidharan, B. Ravindran, V. Kamakoti, D. Bhatia. VLSID 2005*
+* AENEID: A Generic Lithography-Friendly Detailed Router Based on Post-RET Data Learning and Hotspot Detection [[pdf]](https://dl.acm.org/doi/abs/10.1145/2024724.2024902)
+  * *Duo Ding, Jhih-Rong Gao, Kun Yuan and David Z. Pan. DAC 2011*
+* Machine Learning Based Routing Congestion Prediction in FPGA High-Level Synthesis [[pdf]](https://ieeexplore.ieee.org/abstract/document/8714724)
+  * *Jieru Zhao, Tingyuan Liang, Sharad Sinha, Wei Zhang. DATE 2019*
+* RouteNet: Routability prediction for Mixed-Size Designs Using Convolutional Neural Network [[pdf]](https://ieeexplore.ieee.org/abstract/document/8587655)
+  * *Zhiyao Xie, Yu-Hung Huang, Guan-Qi Fang, Haoxing Ren, Shao-Yun Fang, Yiran Chen, Jiang Hu. ICCAD 2018*
+* High-Definition Routing Congestion Prediction for Large-Scale FPGAs [[pdf]](https://ieeexplore.ieee.org/abstract/document/9045178)
+  * *Mohamed Baker Alawieh, Wuxi Li, Yibo Lin, Love Singhal, Mahesh A. Iyer, David Z. Pan. ASPDAC 2020*
+* Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism [[pdf]](https://ieeexplore.ieee.org/abstract/document/8807063)
+  * *Erick Carvajal Barboza, Nishchal Shukla, Yiran Chen, Jiang Hu. DAC 2019*
+* Novel Congestion-estimation and Routability-prediction Methods based on Machine Learning for Modern FPGAs [[pdf]](https://dl.acm.org/doi/abs/10.1145/3337930)
+  * *Abeer Al-Hyari, Ziad  Abuowaimer, Timothy Martin, Gary William Gréwal, Shawki Areibi, Anthony Vannelli. ACM Transactions on Reconfigurable Technology and Systems, August 2019* 
 
 ### Testing and Verification
 * Error moderation in low-cost machine-learning-based analog/RF testing [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358314)
