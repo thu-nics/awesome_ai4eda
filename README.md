@@ -83,47 +83,47 @@
 
 
 * Circuit-GNN: Graph Neural Networks for Distributed Circuit Design [[pdf]](https://proceedings.mlr.press/v97/zhang19e/zhang19e.pdf)
-  * *Guo Zhang, Hao He, DinaKatabi. ICML 2019
-*Learning to Design Circuits  [[pdf]](https://arxiv.org/abs/1812.02734)
-  * *Hanrui Wang, Jiacheng Yang, Hae-Seung Lee, Song Han. NIPS 2018
-*AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs [[pdf]](https://arxiv.org/abs/2001.01808)
-  * *Keertana Settaluri, Ameer Haj-Ali, Qijing Huang, Kourosh Hakhamaneshi, Borivoje Nikolic. DATE 2020
+  * *Guo Zhang, Hao He, DinaKatabi. ICML 2019*
+* Learning to Design Circuits  [[pdf]](https://arxiv.org/abs/1812.02734)
+  * *Hanrui Wang, Jiacheng Yang, Hae-Seung Lee, Song Han. NIPS 2018*
+* AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs [[pdf]](https://arxiv.org/abs/2001.01808)
+  * *Keertana Settaluri, Ameer Haj-Ali, Qijing Huang, Kourosh Hakhamaneshi, Borivoje Nikolic. DATE 2020*
 
-*Electric analog circuit design with hypernetworks and a differential simulator [[pdf]](https://arxiv.org/abs/1911.03053)
-  * *Michael Rotman, Lior Wolf. ICASSP 2020
+* Electric analog circuit design with hypernetworks and a differential simulator [[pdf]](https://arxiv.org/abs/1911.03053)
+  * *Michael Rotman, Lior Wolf. ICASSP 2020*
 
-*BagNet:  Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural  Network [[pdf]](https://arxiv.org/abs/1907.10515)
-  * *Kourosh Hakhamaneshi, Nick Werblun, Pieter Abbeel, Vladimir Stojanovic. ICCAD 2019
+* BagNet:  Berkeley Analog Generator with Layout Optimizer Boosted with Deep Neural  Network [[pdf]](https://arxiv.org/abs/1907.10515)
+  * *Kourosh Hakhamaneshi, Nick Werblun, Pieter Abbeel, Vladimir Stojanovic. ICCAD 2019*
 
-*Analog circuit topological feature extraction with unsupervised learning of new sub-structures [[pdf]](https://ieeexplore.ieee.org/document/7459552)
-  * *Hao Li, Fanshu Jia, Alex Doboli. DATE 2016
+* Analog circuit topological feature extraction with unsupervised learning of new sub-structures [[pdf]](https://ieeexplore.ieee.org/document/7459552)
+  * *Hao Li, Fanshu Jia, Alex Doboli. DATE 2016*
 
-*Late Break Result: An Efficient Learning-based Approach for Performance Exploration on Analog and RF Circuit Synthesis [[pdf]](https://dl.acm.org/doi/10.1145/3316781.3322467)
-  * *Hung-Ming Chen, Po-Cheng Pan, Chien-Chia Huang, Hung-Ming Chen. DAC 2019
+* Late Break Result: An Efficient Learning-based Approach for Performance Exploration on Analog and RF Circuit Synthesis [[pdf]](https://dl.acm.org/doi/10.1145/3316781.3322467)
+  * *Hung-Ming Chen, Po-Cheng Pan, Chien-Chia Huang, Hung-Ming Chen. DAC 2019*
 
-*Application of Deep Learning  in Analog Circuit Sizing [[pdf]](https://dl.acm.org/doi/10.1145/3297156.3297160)
-  * *Zhenyu Wang，Xiangzhong Luo，Zheng Gong. CSAI 2018
+* Application of Deep Learning  in Analog Circuit Sizing [[pdf]](https://dl.acm.org/doi/10.1145/3297156.3297160)
+  * *Zhenyu Wang，Xiangzhong Luo，Zheng Gong. CSAI 2018*
 
-*Using Polynomial Regression and Artificial Neural Networks for Reusable Analog IC Sizing  [[pdf]](https://ieeexplore.ieee.org/document/8795282)
-  * *N. Lourenço, E. Afacan, R. Martins, F. Passos, A. Canelas, R. Póvoa, N. Horta, G. Dundar. SMACD 2019
+* Using Polynomial Regression and Artificial Neural Networks for Reusable Analog IC Sizing  [[pdf]](https://ieeexplore.ieee.org/document/8795282)
+  * *N. Lourenço, E. Afacan, R. Martins, F. Passos, A. Canelas, R. Póvoa, N. Horta, G. Dundar. SMACD 2019*
 
-*Machine-Learning-Based Early  Stage Timing Prediction in SoC Physical Design [[pdf]](https://ieeexplore.ieee.org/document/8565778/)
-  * *Lida Bai, Lan Chen. ICSICT 2018
+* Machine-Learning-Based Early  Stage Timing Prediction in SoC Physical Design [[pdf]](https://ieeexplore.ieee.org/document/8565778/)
+  * *Lida Bai, Lan Chen. ICSICT 2018*
 
-*Machine-Learning in Physical  Design [[pdf]](https://ieeexplore.ieee.org/document/7835438)
-  * *Bowen Li, Paul D. Franzon. EPEPS 2016
+* Machine-Learning in Physical  Design [[pdf]](https://ieeexplore.ieee.org/document/7835438)
+  * *Bowen Li, Paul D. Franzon. EPEPS 2016*
 
-*Machine Learning Applications  and Opportunities in IC Design Flow [[pdf]](https://ieeexplore.ieee.org/document/8742073)
-  * *Laura Wang, Matt Luo. VLSI-DAT 2019
+* Machine Learning Applications  and Opportunities in IC Design Flow [[pdf]](https://ieeexplore.ieee.org/document/8742073)
+  * *Laura Wang, Matt Luo. VLSI-DAT 2019*
 
-*GA-SVM Optimization Kernel  applied to Analog IC Design Automation [[pdf]](https://ieeexplore.ieee.org/document/4263409)
-  * *Manuel Barros, Jorge Guilherme, Nuno Horta. ICECS 2006
+* GA-SVM Optimization Kernel  applied to Analog IC Design Automation [[pdf]](https://ieeexplore.ieee.org/document/4263409)
+  * *Manuel Barros, Jorge Guilherme, Nuno Horta. ICECS 2006*
 
-*Using Artificial Neural  Networks for Analog Integrated Circuit Design Automation [[pdf]](https://link.springer.com/book/10.1007/978-3-030-35743-6)
-  * *N. Lourenço,  et. al. Springer
+* Using Artificial Neural  Networks for Analog Integrated Circuit Design Automation [[pdf]](https://link.springer.com/book/10.1007/978-3-030-35743-6)
+  * *N. Lourenço,  et. al. Springer*
 
-*Inference of Suitable for Required Specification Analog Circuit Topology using Deep Learning [[pdf]](https://ieeexplore.ieee.org/document/8923544)
-  * *Teruki Matsuba, Nobukazu Takai, Masafumi Fukuda, Yusuke Kubo. ISPACS 2018
+* Inference of Suitable for Required Specification Analog Circuit Topology using Deep Learning [[pdf]](https://ieeexplore.ieee.org/document/8923544)
+  * *Teruki Matsuba, Nobukazu Takai, Masafumi Fukuda, Yusuke Kubo. ISPACS 2018*
 
 ### Routing
 
