@@ -63,6 +63,24 @@
   * *Hu, Hanbin, et al. DAC 2018*
 * High performance graph convolutional networks with applications in testability analysis [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8807085)
   * *Ma, Yuzhe, et al. DAC 2019*
+* RF specification test compaction using learning machines [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5169847)
+  * *Stratigopoulos, Haralampos-G., et al. IEEE Transactions on Very Large Scale Integration (VLSI) Systems 2010*
+* Exploring Graphical Models with Bayesian Learning and MCMC for Failure Diagnosis [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9045154)
+  * *Hongfei Wang, Wenjie Cai, Jianwen Li, and Kun He. ASPDAC 2020*
+* Learning to produce direct tests for security verification using constrained process discovery [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8060318)
+  * *Kuo-Kai Hsieh, L. Wang, Wen Chen and J. Bhadra. DAC 2017*
+* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
+  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
+* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
+  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
+* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
+  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
+* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
+  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
+* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
+  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
+* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
+  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
 ### Machine learning for SAT Solver
 
 ### Acceleration with Deep Learning Engine
