@@ -47,7 +47,7 @@
 ### FloorPlanning & Placement
 
 #### prediction + search
-* Chip Placement with Deep Reinforcement Learning [[pdf]](https://arxiv.org/abs/2004.10746)
+* Chip Placement with Deep Reinforcement Learning [[pdf]](https://arxiv.org/abs/2004.10746) [[blog]](https://ai.googleblog.com/2020/04/chip-design-with-deep-reinforcement.html)
   * *Azalia Mirhoseini, Anna Goldie, et. al. ISPD 2020*
 
 #### prediction
@@ -100,3 +100,4 @@ Collected by students in the course **Computer-Aided Design of Digital Circuits 
 
 Instructor: [**Prof. Yu Wang**](http://nicsefc.ee.tsinghua.edu.cn/people/yu-wang/)     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Teaching Assistant: **Xuefei Ning**
 
+Any advice is appreciated, you can provide your suggestions by creating issues, or email nicsefc@gmail.com.
