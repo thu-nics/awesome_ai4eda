@@ -71,16 +71,18 @@
   * *Kuo-Kai Hsieh, L. Wang, Wen Chen and J. Bhadra. DAC 2017*
 * Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
   * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
-* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
-  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
-* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
-  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
-* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
-  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
-* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
-  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
-* Improving Test Chip Design Efficiency via Machine Learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9000131)
-  * *Z. Liu, Q. Huang, C. Fang and R. D. Blanton. ITC 2019*
+* Machine learning for performance and power modeling of heterogeneous systems [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8587737)
+  * *Greathouse, Joseph L., and Gabriel H. Loh. ICCAD 2018*
+* Low-cost high-accuracy variation characterization for nanoscale IC technologies via novel learning-based techniques [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8342115)
+  * *Z. Pan et al. DATE 2018*
+* Learning-based approximation of interconnect delay and slew in signoff timing tools [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6681682)
+  * *A. B. Kahng, S. Kang, H. Lee, S. Nath and J. Wadhwani. SLIP 2013*
+* LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806997)
+  * *W. Ye, M. B. Alawieh, Y. Lin and D. Z. Pan. DAC 2019*
+* Machine-Learning Based Congestion Estimation for Modern FPGAs [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8533535)
+  * *D. Maarouf et al. FPL 2018*
+* System-level hardware failure prediction using deep learning [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806998)
+  * *X. Sun et al. DAC 2019* 
 ### Machine learning for SAT Solver
 
 ### Acceleration with Deep Learning Engine
