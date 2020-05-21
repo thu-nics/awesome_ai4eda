@@ -57,8 +57,7 @@
 ### Routing
 
 ### Testing and Verification
-* Error moderation in low-cost machine-learning-based analog/RF testing [[pdf]]
-(https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358314)
+* Error moderation in low-cost machine-learning-based analog/RF testing [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358314)
   * *Stratigopoulos, Haralampos-G., and Yiorgos Makris. IEEE TCAD of integrated CAS 2008*
 * HFMV: hybridizing formal methods and machine learning for verification of analog and mixed-signal circuits [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8465826)
   * *Hu, Hanbin, et al. DAC 2018*
