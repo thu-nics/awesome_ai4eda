@@ -56,6 +56,8 @@ High-level synthesis (HLS) provides automatic conversion from C/C++/SystemC base
 
 ### FloorPlanning & Placement
 
+Based on the netlist after synthesis, FloorPlanning and Placement aim to assign the netlist components to specific locations on the chip layout. Better placement assignment implies potential of better chip area utilization, timing performance and routability. In order to achieve a better placement design for VLSI design, ML-based methods are recently applied to predict the possible challenges in further steps of physical design flow (e.g. routing steps).
+
 #### prediction + search
 * Chip Placement with Deep Reinforcement Learning [[pdf]](https://arxiv.org/abs/2004.10746) [[blog]](https://ai.googleblog.com/2020/04/chip-design-with-deep-reinforcement.html)
   * *Azalia Mirhoseini, Anna Goldie, et. al. ISPD 2020*
@@ -81,6 +83,8 @@ High-level synthesis (HLS) provides automatic conversion from C/C++/SystemC base
   * *R. Manimegalai, E. Siva Soumya, V. Muralidharan, B. Ravindran, V. Kamakoti, D. Bhatia. VLSID 2005*
 
 ### Routing
+
+Routing is one of the essential steps in VLSI physical design flow based on the placement assignment. Routing steps assign the wires to connect the netlist components on the chip. At the same time, routing steps need to satisfy the requirements of timing performance and total wire length without violating the DRC rules. The machine learning approaches are considered as powerful tools for congestion and timing prediction in detailed routing.
 
 * Routability Optimization for Industrial Designs at Sub-14nm Process Nodes Using Machine Learning [[pdf]](https://dl.acm.org/doi/abs/10.1145/3036669.3036681)
   * *Wei-Ting J. Chan, Pei-Hsin Ho, Andrew B. Kahng and Prashant Saxena3. ISPD 2017*
@@ -136,7 +140,7 @@ Testing and verification is one of the most important process in chip design. Ho
   * *Yibo Lin, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany, David Z. Pan. DAC 2019*
 
 ### Analog
-In the analog design flow, the topology of circuit is firstly determined for certain applications. Then the size of devices in selected topolgy are optimized to meet the exact specifications like DC gain or GBW. Recently, machine learning techniques are introduced to solve the device sizing  and topology selection problems automatically.
+In the analog design flow, the topology of circuit is firstly determined for certain applications. Then the size of devices in selected topology are optimized to meet the exact specifications like DC gain or GBW. Recently, machine learning techniques are introduced to solve the device sizing  and topology selection problems automatically.
 
 #### Circuit Design
 * Circuit-GNN: Graph Neural Networks for Distributed Circuit Design [[pdf]](https://proceedings.mlr.press/v97/zhang19e/zhang19e.pdf)
