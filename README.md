@@ -1,7 +1,19 @@
 # Awesome AI for EDA
 
 ## Table of Contents
-
+  - [Surveys](#survey)
+  - [Papers](#papers)
+    - [High Level Synthesis](#high-level-synthesis)
+    - [Logic Synthesis](#logic-synthesis)
+    - [FloorPlanning & Placement](#floorplanning--placement)
+    - [Routing](#routing)
+    - [Testing and Verification](#testing-and-verification)
+    - [Machine Learning for SAT](#machine-learning-for-sat-solver)
+    - [Acceleration with Deep Learning Engine](#acceleration-with-deep-learning-engine)
+    - [Analog](#analog)
+  - [Other Resources](#other-resources)
+  
+  
 ## Survey
 
 * Machine learning and pattern matching in physical design [[pdf]](https://www.cerc.utexas.edu/utda/publications/C168.pdf) [[slide]](https://pdfs.semanticscholar.org/0aa7/4e0b0a1fad300e45e5354450908229212e24.pdf)
