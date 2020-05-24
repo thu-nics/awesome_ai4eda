@@ -149,19 +149,14 @@ Testing and verification is one of the most important process in chip design. Ho
 SAT plays an important role in circuit design and verification, error diagnosis, model detection of finite state machines, FPGA routing, logic synthesis and mapping, register allocation, timing, etc. At the heart of a traditional SAT solver is a search engine that may require exponential runtime. Lately, with the advancement of neural network in representation learning  and solving optimization problems, there have seen an increased interest in generating and solving SAT formula with neural network.
 * Learning a SAT solver from single-bit supervision [[pdf]](https://arxiv.org/abs/1802.03685)
   * *Daniel Selsam, Matthew Lamm, Benedikt Bünz, Percy Liang, Leonardo de Moura, and David L. Dill. ICLR 2019*
-  
 * Guiding high-performance SAT solvers with unsat-core predictions [[pdf]](https://arxiv.org/abs/1903.04671)
   * *Daniel Selsam and Nikolaj Bjørner. Theory and Applications of Satisfiability Testing – SAT 2019.
-
 * Learning Local Search Heuristics for Boolean Satisfiability [[pdf]](https://paperswithcode.com/paper/learning-local-search-heuristics-for-boolean)
   * *Emre Yolcu and Barnabás Póczos. NeurIPS 2019.
-
 * G2SAT: Learning to Generate SAT Formulas [[pdf]](https://arxiv.org/abs/1910.13445)
   * *Jiaxuan You, Haoze Wu, Clark Barrett, Raghuram Ramanujan and Jure Leskovec. NeurIPS 2019
-
 * Learning to solve Circuit-SAT: An unsupervised differentiable approach [[pdf]](https://openreview.net/forum?id=BJxgz2R9t7)
   * *Saeed Amizadeh, Sergiy Matusevych, and Markus Weimer. ICLR 2019.
-
 ### Acceleration with Deep Learning Engine
 * DREAMPlace: Deep learning toolkit-enabled GPU acceleration for modern VLSI placement [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3316781.3317803)
   * *Yibo Lin, Shounak Dhar, Wuxi Li, Haoxing Ren, Brucek Khailany, David Z. Pan. DAC 2019*
