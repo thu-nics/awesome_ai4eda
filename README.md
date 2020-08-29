@@ -55,16 +55,26 @@ High-level synthesis (HLS) provides automatic conversion from C/C++/SystemC base
   * *Hosein Mohammadi Makrani, Hossein Sayadi, Tinoosh Mohsenin, Setareh rafatirad, Avesta Sasan, Houman Homayoun. ASPDAC 2019*
 * A Deep-Reinforcement-Learning-Based Scheduler for FPGA HLS [[pdf]](https://ieeexplore.ieee.org/iel7/8931666/8942037/08942126.pdf)
   * *Hongzheng Chen and Minghua Shen. ICCAD 2019*
+
 ### Logic Synthesis
 
+* Developing synthesis flows without human knowledge [[pdf]](https://dl.acm.org/doi/10.1145/3195970.3196026)
+  * *Cunxi Yu , Houping Xiao, Giovanni De Micheli. DAC 2018*
+* Deep Learning for Logic Optimization Algorithms [[pdf]](https://ieeexplore.ieee.org/document/8351885/)
+  * *Winston Haaswijk, Edo Collins, Benoit Seguin, Mathias Soeken, Frédéric Kaplan, Sabine Süsstrunk, Giovanni De Micheli. ISCAS 2018*
 * Accurate Wirelength Prediction for Placement-Aware Synthesis through Machine Learning [[pdf]](https://ieeexplore.ieee.org/abstract/document/8715016/)
   * *Daijoon Hyun, Yuepeng Fan, Youngsoo Shin. DATE 2019*
 * Digital Compatible Synthesis, Placement and Implementation of Mixed-Signal Time-Domain Computing [[pdf]](https://ieeexplore.ieee.org/abstract/document/8806926)
   * *Zhengyu Chen, Hai Zhou, Jie Gu. DAC 2019*
-* Template-based PDN Synthesis in Floorplan and Placement Using Classifier and CNN Techniques [[pdf]](https://ieeexplore.ieee.org/abstract/document/9045303)
-  * *Vidya A. Chhabria, Andrew B. Kahng, Minsoo Kim, Uday Mallappa, Sachin S. Sapatnekar, Bangqi Xu. ASPDAC 2020*
 * LSOracle: a Logic Synthesis Framework Driven by AI 
   * *Walter Lau Neto, Max Austin, Scott Temple, Luca Amaru, Xifan Tang, Pierre-Emmanuel Gaillardon. ICCAD 2019*
+* DRiLLS: Deep Reinforcement Learning for Logic Synthesis [[pdf]](https://ieeexplore.ieee.org/document/9045559/)
+  * *Abdelrahman Hosny, Soheil Hashemi, Mohamed Shalan, Sherief Reda. ASP-DAC 2020*
+
+### Power Network
+
+* Template-based PDN Synthesis in Floorplan and Placement Using Classifier and CNN Techniques [[pdf]](https://ieeexplore.ieee.org/abstract/document/9045303)
+  * *Vidya A. Chhabria, Andrew B. Kahng, Minsoo Kim, Uday Mallappa, Sachin S. Sapatnekar, Bangqi Xu. ASPDAC 2020*
 
 ### FloorPlanning & Placement
 
