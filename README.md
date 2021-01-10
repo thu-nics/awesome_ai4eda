@@ -58,7 +58,7 @@ High-level synthesis (HLS) provides automatic conversion from C/C++/SystemC base
 * Machine Leaming to Set Meta-Heuristic Specific Parameters for High-Level Synthesis Design Space Exploration [[pdf]](https://ieeexplore.ieee.org/document/9218674)
   * *Zi Wang and Benjamin Carrion Schafer. DAC 2020*
 * Accurate Operation Delay Prediction for FPGA HLS Using Graph Neural Networks [[pdf]](https://ieeexplore.ieee.org/document/9256462)
-  * *Ecenur Ustun, et al. ICCAD 2020*
+  * *Ecenur Ustun, Chenhui Deng, Debjit Pal, Zhijing Li, and Zhiru Zhang. ICCAD 2020*
 
 ### Logic Synthesis
 
