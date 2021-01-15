@@ -55,6 +55,10 @@ High-level synthesis (HLS) provides automatic conversion from C/C++/SystemC base
   * *Hosein Mohammadi Makrani, Hossein Sayadi, Tinoosh Mohsenin, Setareh rafatirad, Avesta Sasan, Houman Homayoun. ASPDAC 2019*
 * A Deep-Reinforcement-Learning-Based Scheduler for FPGA HLS [[pdf]](https://ieeexplore.ieee.org/iel7/8931666/8942037/08942126.pdf)
   * *Hongzheng Chen and Minghua Shen. ICCAD 2019*
+* Machine Leaming to Set Meta-Heuristic Specific Parameters for High-Level Synthesis Design Space Exploration [[pdf]](https://ieeexplore.ieee.org/document/9218674)
+  * *Zi Wang and Benjamin Carrion Schafer. DAC 2020*
+* Accurate Operation Delay Prediction for FPGA HLS Using Graph Neural Networks [[pdf]](https://ieeexplore.ieee.org/document/9256462)
+  * *Ecenur Ustun, Chenhui Deng, Debjit Pal, Zhijing Li, and Zhiru Zhang. ICCAD 2020*
 
 ### Logic Synthesis
 
